@@ -16,7 +16,7 @@
             <h1>HELLO WORLD</h1>
           );
         };
-      ReactDOM.render(<h1>HELLO WORLD</h1>, document.getElementById('app'));
+        ReactDOM.render(App(), document.getElementById('app'));
     </script>
   </body>
 </html>
