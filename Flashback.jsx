@@ -23,6 +23,11 @@
             </div>
           );
         };
+
+        var Card = function() {
+              <div className='Card -front'>
+              </div>
+        };
         ReactDOM.render(App(), document.getElementById('app'));
     </script>
   </body>
