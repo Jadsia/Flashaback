@@ -13,7 +13,8 @@
     <script type='text/babel'>
           var App = function() {
           return (
-            <h1>HELLO WORLD</h1>
+            <div className='App'>
+            </div>
           );
         };
         ReactDOM.render(App(), document.getElementById('app'));
