@@ -14,6 +14,9 @@
           var App = function() {
           return (
             <div className='App'>
+              <h1 className='title'>
+                 Flashback
+              </h1>
             </div>
           );
         };
