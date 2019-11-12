@@ -17,6 +17,9 @@
               <h1 className='title'>
                  Flashback
               </h1>
+                <p className='sub-title'>
+                   An interactive flashcard app.
+                </p>
             </div>
           );
         };
