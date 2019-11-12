@@ -11,9 +11,11 @@
   <div id="app"></div>
 
     <script type='text/babel'>
-        var App = function() {
-
-         };
+          var App = function() {
+          return (
+            <h1>HELLO WORLD</h1>
+          );
+        };
       ReactDOM.render(<h1>HELLO WORLD</h1>, document.getElementById('app'));
     </script>
   </body>
