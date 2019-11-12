@@ -26,6 +26,10 @@
 
         var Card = function() {
               <div className='Card -front'>
+                  <div className="front">
+                    <h3 className='question'>
+                    </h3>
+                  </div>
               </div>
         };
         ReactDOM.render(App(), document.getElementById('app'));
