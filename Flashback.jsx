@@ -11,6 +11,9 @@
   <div id="app"></div>
 
     <script type='text/babel'>
+        var App = function() {
+
+         };
       ReactDOM.render(<h1>HELLO WORLD</h1>, document.getElementById('app'));
     </script>
   </body>
