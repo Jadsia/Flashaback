@@ -8,7 +8,10 @@
   </head>
 
   <body>
-    <h1>What it do, bitch?</h1>
+  <div id="app"></div>
 
+    <script type='text/babel'>
+      ReactDOM.render(<h1>HELLO WORLD</h1>);
+    </script>
   </body>
 </html>
